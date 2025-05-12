@@ -1,0 +1,27 @@
+[
+    {
+        "username": "Manolo",
+        "password": "$2y$10$kWZL67p7puB3rbEhtngr0.o5itpAh0r3QGcjAqQDIeu7ViHaMnucC",
+        "role": "usuario"
+    },
+    {
+        "username": "paolajp@gmail.com",
+        "password": "$2y$10$5m3TnUuALr1PsBEMT9U18.5y7zJNfgWRtPh9bE4eowj9ExIN0m6O6",
+        "role": "usuario"
+    },
+    {
+        "username": "Iv\u00e1n",
+        "password": "$2y$10$\/hhNSbsbssx.wCvjAEYM6.f8MZnW7nUamprPy7rmmg4p.fuzN4NtK",
+        "role": "usuario"
+    },
+    {
+        "username": "macrinacasta\u00f1eda@gmail.com",
+        "password": "$2y$10$Rl6ldhbg9n2hy42yHWZADuItjmOj5J6\/3bpVLgJmdUlm4jEsCWZlm",
+        "role": "usuario"
+    },
+    {
+        "username": "karenguz2@gmail.com",
+        "password": "$2y$10$QQOVJxhalnFjHFXIyll56uuD8MySct5xHzAYju3UkvcNhXGu.1eaS",
+        "role": "administrador"
+    }
+]
